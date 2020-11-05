@@ -1,0 +1,60 @@
+
+Logfile opened on Mon Aug 17 16:55:48 2020
+
+
+g_antilag is read only.
+By using this software you agree to the usage conditions you can find at https://github.com/callofduty4x/CoD4x_Server#usage-conditions-for-server-hosters
+-----------------------------------
+^4Calculate referenced files checksums...
+^4CRC32 for main/iw_11.iwd is e9cf411f Len 151420446
+^4CRC32 for mods/lk_gamers/z_custom.iwd is eba9d0cd Len 795249
+^4CRC32 for mods/lk_gamers/pml220.iwd is 14a10cf7 Len 5676483
+^4CRC32 for mods/lk_gamers/z_snd.iwd is c1c68406 Len 24419247
+^4CRC32 for mods/lk_gamers/z_smvskins.iwd is dcc88896 Len 13152094
+^4CRC32 for zone/english/code_post_gfx_mp.ff is b144581c Len 89196
+^4CRC32 for zone/english/mp_crossfire.ff is 7ccff4ad Len 36726189
+^4CRC32 for zone/english/common_mp.ff is 4ef7a074 Len 13517381
+^4CRC32 for mods/lk_gamers/mod.ff is 111844a9 Len 571315
+Steam: Server connected successfully
+GameServer is not VAC Secure!
+GameServer SteamID: [A:1:1659922435]
+Resolving cod4master.activision.com 
+cod4master.activision.com resolved to 185.34.107.159:20810
+Resolving cod4master.smvhost.in (IPv4)
+cod4master.smvhost.in resolved to 51.79.165.194:20810
+Resolving cod4master.smvhost.in (IPv6)
+cod4master.smvhost.in resolved to [2400:6180:0:d0::2b:1]:20810
+Sending heartbeat to cod4master.smvhost.in
+^5Hitch warning: 3928 msec frame time
+Resolving cod4master.activision.com
+cod4master.activision.com resolved to 185.34.107.159:20800
+Going from CS_FREE to CS_CONNECTED for - CyRuS - num 0 from: 175.157.218.202:4415<=>10.148.0.63:28962
+Sending heartbeat to cod4master.smvhost.in
+SV_ExecuteReliableMessage() cmd: 8
+^2Processed 71 bytes for client - CyRuS -
+SV_ExecuteReliableMessage() cmd: 8
+^2Processed 6 bytes for client - CyRuS -
+SV_ExecuteReliableMessage() cmd: 9
+Received packet 0 of stats data
+^2Processed 8201 bytes for client - CyRuS -
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+quitting...
+All plugins have terminated
+----- Server Shutdown -----
+
+With the reason: EXE_SERVERQUIT
+Sending heartbeat to cod4master.smvhost.in
+Sending heartbeat to cod4master.smvhost.in
+==== ShutdownGame (1) ====
+Player - CyRuS -^7, 0 dropped: EXE_DISCONNECTED
+---------------------------
+Unloaded fastfile mp_crossfire
+Unloaded fastfile mod
+Unloaded fastfile localized_common_mp
+Unloaded fastfile common_mp
+Unloaded fastfile localized_code_post_gfx_mp
+Unloaded fastfile code_post_gfx_mp
